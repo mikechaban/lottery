@@ -113,7 +113,7 @@ const LotteryButton = () => {
                     </span>
                 </div>
             ) : (
-                <div>No Raffle address detected</div>
+                <div>No Raffle Address Detected</div>
             )}
 
             <div>
